@@ -18,4 +18,6 @@ target 'ReactNative3Js' do
   #     flipper_post_install(installer)
   #   end
   # end
+  pod 'react-native-webgl', :path => '../node_modules/react-native-webgl'
+
 end
