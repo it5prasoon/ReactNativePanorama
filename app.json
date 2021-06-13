@@ -1,0 +1,12 @@
+{
+  "name": "ReactNative3Js",
+  "displayName": "ReactNative3Js",
+  "expo": {
+    "name": "ReactNative3Js",
+    "slug": "ReactNative3Js",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
