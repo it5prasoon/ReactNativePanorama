@@ -1,2 +1,2 @@
-# ReactNative3Js
-A 3D model in React Native using WebGL and Three.js.
+# ReactNativePanorama
+A 3D panorama view using react native. You can use your sensors to move.
